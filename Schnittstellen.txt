@@ -1,0 +1,6 @@
+Fernsteuerung - 6x3 Pin
+Motoren - 6x3 Pin
+Sensor - 8x1 Pin
+SD-Karte - SD-SLot (SPI) + Insertion Erkennung
+WLAN Modul - Uart
+
